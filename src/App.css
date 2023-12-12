@@ -49,15 +49,17 @@
   justify-content:space-between;
   align-items:center;
   width:500px;
+  height:100px;
   border:2px solid rgb(125, 125, 137);
   border-radius:15px;
   background-color:rgb(154, 156, 156);
+  margin-bottom:30px;
 }
 .cardBox .cardName{
   color: black;
   padding:20px;
 }
 .cardBox .cardPrice{
-  color: red;
+  color: white;
   padding:20px;
 }
